@@ -1,6 +1,4 @@
-import pyautogui 
-import os
-import time
+import pyautogui, os, time
 from pystyle import Colors, Colorate
 
 clear = lambda: os.system('cls')
